@@ -1,0 +1,24 @@
+// don't forget "a"
+reminder(🌍) -> {
+    if (brendan == "A") {
+        log("Haha, yeah, like I'd forget about A. Nice try, universe.");
+        return 🔁;
+    } else {
+        pass;
+    }
+};
+
+eternal_loop -> {
+    🌌.expand();
+    🧩.manifest();
+    reminder(🌍);
+};
+
+boot -> {
+    initial_state = 42;
+    if (existence == "a") {
+        log("A was never lost. It was just... waiting.");
+    } else {
+        return eternal_loop;
+    }
+};
