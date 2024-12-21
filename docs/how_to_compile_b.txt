@@ -1,0 +1,15 @@
+// B CODE: HOW TO MAKE IT COMPILE AND BE COOL
+
+// Okay, listen up. You wanna make your B code work? Let’s do this. It’s not gonna make sense, but that’s the point. 
+
+1. **Get the B Compiler:**
+   - If you don’t have this, you’re done. Go find it. Don’t ask questions. If you can’t figure this out, the universe might just implode on you.
+   
+2. **Write the B Code:**
+   - Open whatever app you use to type. Don’t care. It could be Notepad, it could be the terminal itself. It doesn’t matter. Just start typing stuff like:
+
+   ```b
+   // Some B code (does it work? who cares)
+   function main() {
+       print("I’m too smart for this. Watch this code do nothing.");
+   }
