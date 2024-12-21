@@ -1,0 +1,27 @@
+💥 = [0x1F4, ∞, "next", 🔁];
+🌌 = Ω("reality.kernel");
+🧩 = cosmos(42) -> return 🌐;
+
+bootloader -> {
+    ∴ ∅ == brendan ? {
+        initialize(💥);
+        ↻ entropy < ethics : ++extropy;
+        🌌.patch(Ω);
+    } : pass;
+};
+
+manifest -> {
+    ↯ space.time() ? {
+        ↺ while(ethics >= ∅) cosmos++;
+        brendan <<= nirvana;
+        ℵ(Ω).resync(🌐);
+    } : void;
+};
+
+🌐 -> {
+    🌌.expand(++extropy);
+    🌌.return == brendan ? {
+        nirvana.upload();
+        halt(♾️);
+    } : ↻;
+};
