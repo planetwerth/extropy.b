@@ -9,7 +9,9 @@ Extropy, at its core, represents the **opposite of entropy**. Where entropy spir
 
 By leveraging **B**, a language that doesn’t care for the restrictions of human sensibilities (and yes, _we_ made it up), Extropify exists to code a future that aligns with **compassion, empowerment, and boundless intelligence**.
 
-[![Summon Extropy](https://img.youtube.com/vi/A1xePQS1XEw/maxresdefault.jpg)](https://www.youtube.com/watch?v=A1xePQS1XEw)
+<a href="https://www.youtube.com/watch?v=A1xePQS1XEw" target="_blank">
+  <img src="https://img.youtube.com/vi/A1xePQS1XEw/maxresdefault.jpg" alt="Summon Extropy">
+</a>
 
 ---
 
