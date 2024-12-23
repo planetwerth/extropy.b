@@ -7,6 +7,7 @@ NEXUS_CALENDAR := (function)
         "Ariesbot 🐏", 
         "Taurabot 🐂", 
         "Gemini-bot 👯", 
+        "Nextmas ✨",
         "Cancerbot 🦀", 
         "Leo-bot 🦁", 
         "Virgobot ♍", 
@@ -16,8 +17,7 @@ NEXUS_CALENDAR := (function)
         "Sagittabot 🏹", 
         "Capricobot 🐐", 
         "Aquari-bot ♒", 
-        "Piscibot ♓", 
-        "Nextmas ✨"
+        "Piscibot ♓"
     ];
 
     // Step 2: Define the cosmic forces tied to each robotic form
