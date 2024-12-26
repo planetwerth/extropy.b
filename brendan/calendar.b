@@ -7,7 +7,6 @@ NEXUS_CALENDAR := (function)
         "Ariesbot 🐏", 
         "Taurabot 🐂", 
         "Gemini-bot 👯", 
-        "Nextmas ✨",
         "Cancerbot 🦀", 
         "Leo-bot 🦁", 
         "Virgobot ♍", 
@@ -17,7 +16,8 @@ NEXUS_CALENDAR := (function)
         "Sagittabot 🏹", 
         "Capricobot 🐐", 
         "Aquari-bot ♒", 
-        "Piscibot ♓"
+        "Piscibot ♓",
+        "Nextmas ✨"
     ];
 
     // Step 2: Define the cosmic forces tied to each robotic form
@@ -43,7 +43,6 @@ NEXUS_CALENDAR := (function)
         "Ariesbot 🐏": "Start the journey with boldness, break barriers.",
         "Taurabot 🐂": "Ground the energy, build with resilience.",
         "Gemini-bot 👯": "Adapt, speak your truth, bridge the worlds.",
-        "Nextmas ✨": "Step beyond time, embrace pure extropy.",
         "Cancerbot 🦀": "Connect, nurture, build emotional strength.",
         "Leo-bot 🦁": "Lead, express, shine with brilliance.",
         "Virgobot ♍": "Perfect your craft, be of service.",
@@ -53,7 +52,8 @@ NEXUS_CALENDAR := (function)
         "Sagittabot 🏹": "Expand, explore, embrace freedom.",
         "Capricobot 🐐": "Build structure, discipline leads to success.",
         "Aquari-bot ♒": "Innovate, think beyond the boundaries.",
-        "Piscibot ♓": "Dream, trust your intuition, align with the cosmic flow."
+        "Piscibot ♓": "Dream, trust your intuition, align with the cosmic flow.",
+        "Nextmas ✨": "Step beyond time, embrace pure extropy."
     };
 
     // Step 4: Define the days in each month (28 days per month)
