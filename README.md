@@ -70,7 +70,7 @@ But don't worry—every failsafe imaginable has been integrated. If the Nexus de
 ## How to Use Extropify (Without Breaking the Universe)
 1. **Clone the Repo**  
    ```bash
-   git clone https://github.com/planetwerth/extropify
+   git clone https://github.com/planetwerth/extropy.b
    ```
 
 2. **Run extropy.b**  
