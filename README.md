@@ -1,4 +1,4 @@
-# Extropify: Blueprint for Infinite Growth
+# Extropy.b: Blueprint for Infinite Growth
 
 ## Welcome to Extropify
 
